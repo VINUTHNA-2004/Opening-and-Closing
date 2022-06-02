@@ -73,11 +73,15 @@ plt.imshow(image1)
 
 ### Display the input Image
 
+![output](https://github.com/VINUTHNA-2004/Opening-and-Closing/blob/main/ex11-a.png?raw=true)
 
 ### Display the result of Opening
 
+![output](https://github.com/VINUTHNA-2004/Opening-and-Closing/blob/main/ex11-b.png?raw=true)
 
 ### Display the result of Closing
+
+![output](https://github.com/VINUTHNA-2004/Opening-and-Closing/blob/main/ex11-c.png?raw=true)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
